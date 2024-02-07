@@ -7,7 +7,7 @@
     "phone": "945-274-8715",
     "website": "https://IamAdit7.github.io",
     "summary": "Driven by a passion for physics and its tangible impact on our lives,
-I am currently an electrical and electronics grad student who aspires to work in the semiconductor industry. I envision myself not just witnessing, but actively contributing to the electronic revolution that will shape tomorrow.  I'm eager to immerse myself in the collaborative spirit of the industry, learning from seasoned professionals and contributing my own fresh perspective. I am also, an avid reader and committed to continuous growth as an engineer and person.",
+                I am currently an electrical and electronics grad student who aspires to work in the semiconductor industry. I envision myself not just witnessing, but actively contributing to the electronic revolution that will shape tomorrow.  I'm eager to immerse myself in the collaborative spirit of the industry, learning from seasoned professionals and contributing my own fresh perspective. I am also, an avid reader and committed to continuous growth as an engineer and person.",
     "location": { "address": "", "postalCode": "75080", "city": "Richardson", "countryCode": "USA", "region": "Dallas" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "https://iamadit7.github.io/" },
@@ -30,7 +30,7 @@ I am currently an electrical and electronics grad student who aspires to work in
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "UNIX", "Linux", "Windows", "Git/GitHub",  ]
+      "keywords": [ "UNIX", "Linux", "Windows", "Git/GitHub"]
     }
   ],
   "education": [
@@ -49,7 +49,7 @@ I am currently an electrical and electronics grad student who aspires to work in
       "studyType": "B.Tech",
       "startDate": "2018-07-09",
       "endDate": "2022-08-20",
-      "courses": [ "Digital and Electronic Circuits", "VLSI Design", "Linear Integrated Circuit Design", "VLSI Fabrication Technology", "Electronic Material Science", "Computer Vision"
+      "courses": [ "Digital Circuits and Systems", "Electronic Circuits", "VLSI Design", "Linear Integrated Circuit Design", "VLSI Fabrication Technology", "Electronic Material Science", "Computer Vision"
       ]
     }  
   ],
