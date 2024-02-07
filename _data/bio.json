@@ -6,40 +6,41 @@
     "email": "adithya.pradeep@utdallas.edu",
     "phone": "945-274-8715",
     "website": "https://IamAdit7.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "Driven by a passion for physics and its tangible impact on our lives,
+I am currently an electrical and electronics grad student who aspires to work in the semiconductor industry. I envision myself not just witnessing, but actively contributing to the electronic revolution that will shape tomorrow.  I'm eager to immerse myself in the collaborative spirit of the industry, learning from seasoned professionals and contributing my own fresh perspective. I am also, an avid reader and committed to continuous growth as an engineer and person.",
     "location": { "address": "", "postalCode": "75080", "city": "Richardson", "countryCode": "USA", "region": "Dallas" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/adithya-pradeep-vp24/" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "VLSI Fabrication Technology" },
+    { "name": "Digital Logic" },
+    { "name": "Micro-Electro-Mechanical Systems" },
+    { "name": "Electronic Material Science" },
+    { "name": "Electromagnetics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "Python", "Verilog", "Assembly"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "UNIX", "Linux", "Windows", "Git/GitHub",  ]
     }
   ],
   "education": [
     {
       "institution": "University of Texas at Dallas",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Electrical and Electronics Engineering (expected Spring, 2025)",
+      "studyType": "M.S.",
+      "startDate": "2023-08-21",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Semiconductor Processing Technology", "Fields and Waves", Quantum Physical Electronics", "Analog IC Design", "Advanced Digital Logic", "Micro-Electro_Mechanical Systems"
       ]
     }
     
