@@ -12,8 +12,7 @@
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "https://iamadit7.github.io/" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/adithya-pradeep-vp24/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+
     ]
   },
   "interests": [
