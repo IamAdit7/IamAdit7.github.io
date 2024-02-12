@@ -41,8 +41,16 @@
       "endDate": "Present",
       "courses": [ "Semiconductor Processing Technology", "Fields and Waves", "Quantum Physical Electronics", "Analog IC Design", "Advanced Digital Logic", "Micro-Electro_Mechanical Systems"
       ]
+    },
+    {
+      "institution": "Amrita",
+      "area": "Electrical and Electronics Engineering (expected Spring, 2025)",
+      "studyType": "M.S.",
+      "startDate": "2023-08-21",
+      "endDate": "Present",
+      "courses": [ "Semiconductor Processing Technology", "Fields and Waves", "Quantum Physical Electronics", "Analog IC Design", "Advanced Digital Logic", "Micro-Electro_Mechanical Systems"
+      ]
     }
-    
   ],
   "work": [
     {
