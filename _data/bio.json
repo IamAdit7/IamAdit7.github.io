@@ -52,17 +52,17 @@
       ]
     }
   ],
-  "work": [
+  "project": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "2- Stage Amplifier Design, Analog Integrated Circuit Design",
+      "position": "",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Analog Integrated Circuit Design",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Created a 2-stage differential input and single-ended output amplifier in Cadence Virtuoso. Made testbenches to verify Common Mode Rejection Ratio, Output voltage swing ratio, gain and phase margin.",
+        "Calculated W/L ratio and currents flowing through each transistor from the design specifications and verified the values of gain, phase margin, slew rate and CMRR from ac analysis plots. "
       ]
     },
     {
