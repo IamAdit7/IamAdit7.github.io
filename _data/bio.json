@@ -54,27 +54,28 @@
   ],
   "work": [
     {
-      "company": "2- Stage Amplifier Design, Analog Integrated Circuit Design",
-      "position": "UT Dallas",
+      "company": "UT Dallas",
+      "position": "2- Stage Amplifier Design- Analog IC Design",
       "website": "",
       "startDate": "2024-01-20",
       "endDate": "Present",
-      "summary": "Analog Integrated Circuit Design",
+      "summary": "Created a 2-stage differential input and single-ended output amplifier in Cadence Virtuoso. Made testbenches to verify Common Mode Rejection Ratio, Output voltage swing ratio, gain and phase margin. Calculated W/L ratio and currents flowing through each transistor from the design specifications and verified the values of gain, phase margin, slew rate and CMRR from AC analysis plots. ",
       "highlights": [
-        "Created a 2-stage differential input and single-ended output amplifier in Cadence Virtuoso. Made testbenches to verify Common Mode Rejection Ratio, Output voltage swing ratio, gain and phase margin.",
-        "Calculated W/L ratio and currents flowing through each transistor from the design specifications and verified the values of gain, phase margin, slew rate and CMRR from AC analysis plots. "
+        "Cadence Virtuoso",
+        "Design Layout"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "X-band Substrate Integrated Waveguide (SIW) to Pyramidal Horn Transition, Fields and Waves",
+      "position": "Fields and Waves",
+      "website": "",
+      "startDate": "2023-10-01",
+      "endDate": "2023-11-15",
+      "summary": "Designed transition of an SIW into a Horn Antenna using an impedance transformer in ANSYS HFSS. Analyzed the dominant mode, the gain and radiation pattern insertion, return, conductor and dielectric losses.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "ANSYS HFSS",
+        "Waveguide",
+        "Antenna"
       ]
     }
   ],
