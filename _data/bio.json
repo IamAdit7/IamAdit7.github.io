@@ -79,29 +79,31 @@
       ]
     },
     {
-      "company": "UT Dallas",
-      "position": "X-band Substrate Integrated Waveguide (SIW) to Pyramidal Horn Transition, Fields and Waves",
+      "company": "Amrita Vishwa Vidyapeetham",
+      "position": "Sleep Monitoring System, Dissertation Project",
       "website": "",
-      "startDate": "2023-10-01",
-      "endDate": "2023-11-15",
-      "summary": "Designed transition of an SIW into a Horn Antenna using an impedance transformer in ANSYS HFSS. Analyzed the dominant mode, the gain and radiation pattern insertion, return, conductor and dielectric losses.",
+      "startDate": "2021-08-01",
+      "endDate": "2022-04-15",
+      "summary": "Designed a piezoelectric heart rate monitoring sensor in COMSOL to measure the heart rate of a sleeping person. Designed a 3-axis piezoelectric accelerometer in COMSOL to sense the movements during sleep. Determined the sleep quality using accelerometers and pressure sensor. Processed the obtained data in MATLAB.",
       "highlights": [
-        "ANSYS HFSS",
-        "Waveguide",
-        "Antenna"
+        "COMSOL Multiphysics",
+        "MATLAB",
+        "MEMS",
+        "Material Science",
+        "Project Lead"
       ]
     },
     {
-      "company": "UT Dallas",
-      "position": "X-band Substrate Integrated Waveguide (SIW) to Pyramidal Horn Transition, Fields and Waves",
+      "company": "Amrita Vishwa Vidyapeetham",
+      "position": "  Material Optimization for Capacitive Pressure Sensor- a COMSOL Study",
       "website": "",
-      "startDate": "2023-10-01",
-      "endDate": "2023-11-15",
-      "summary": "Designed transition of an SIW into a Horn Antenna using an impedance transformer in ANSYS HFSS. Analyzed the dominant mode, the gain and radiation pattern insertion, return, conductor and dielectric losses.",
+      "startDate": "2020-10-01",
+      "endDate": "2021-05-15",
+      "summary": "Studied the working of MEMS-based capacitive pressure sensors. Simulated the model in COMSOL Multiphysics software with different diaphragm materials and compared the pressure and temperature sensitivity. ",
       "highlights": [
-        "ANSYS HFSS",
-        "Waveguide",
-        "Antenna"
+        "COMSOL Multiphysics",
+        "MEMS",
+        "Material Science"
       ]
     }
   ],
