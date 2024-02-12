@@ -66,8 +66,34 @@
       ]
     },
     {
-      "company": "X-band Substrate Integrated Waveguide (SIW) to Pyramidal Horn Transition, Fields and Waves",
-      "position": "Fields and Waves",
+      "company": "UT Dallas",
+      "position": "X-band Substrate Integrated Waveguide (SIW) to Pyramidal Horn Transition, Fields and Waves",
+      "website": "",
+      "startDate": "2023-10-01",
+      "endDate": "2023-11-15",
+      "summary": "Designed transition of an SIW into a Horn Antenna using an impedance transformer in ANSYS HFSS. Analyzed the dominant mode, the gain and radiation pattern insertion, return, conductor and dielectric losses.",
+      "highlights": [
+        "ANSYS HFSS",
+        "Waveguide",
+        "Antenna"
+      ]
+    },
+    {
+      "company": "UT Dallas",
+      "position": "X-band Substrate Integrated Waveguide (SIW) to Pyramidal Horn Transition, Fields and Waves",
+      "website": "",
+      "startDate": "2023-10-01",
+      "endDate": "2023-11-15",
+      "summary": "Designed transition of an SIW into a Horn Antenna using an impedance transformer in ANSYS HFSS. Analyzed the dominant mode, the gain and radiation pattern insertion, return, conductor and dielectric losses.",
+      "highlights": [
+        "ANSYS HFSS",
+        "Waveguide",
+        "Antenna"
+      ]
+    },
+    {
+      "company": "UT Dallas",
+      "position": "X-band Substrate Integrated Waveguide (SIW) to Pyramidal Horn Transition, Fields and Waves",
       "website": "",
       "startDate": "2023-10-01",
       "endDate": "2023-11-15",
